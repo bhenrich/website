@@ -15,7 +15,7 @@ import xml.etree.ElementTree as ET
 # Editable feed settings
 # =========================
 
-SITE_URL = "https://lunatiq.neocities.org/"
+SITE_URL = "https://netcat.systems/"
 BLOG_PATH = "blog.html"
 FEED_PATH = "feed.xml"
 

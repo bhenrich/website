@@ -2,7 +2,7 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>a netcat's rambles</title>
-    <link>https://lunatiq.neocities.org/blog.html</link>
+    <link>https://netcat.systems/blog.html</link>
     <description>Welcome traveller, to this little place in the ever-growing internet. This is a dumping place for topics that interest me, sidequests I've been on and a place for me to publish anything I make.</description>
     <language>en-gb</language>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -10,32 +10,32 @@
     <ttl>60</ttl>
     <webMaster>critter.cafe/@lunatiq</webMaster>
     <lastBuildDate>Wed, 08 Jul 2026 16:50:00 +0200</lastBuildDate>
-    <ns0:link href="https://lunatiq.neocities.org/feed.xml" rel="self" type="application/rss+xml" />
+    <ns0:link href="https://netcat.systems/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>100 Questions for Webmasters</title>
-      <link>https://lunatiq.neocities.org/posts/100-questions.html</link>
-      <guid isPermaLink="true">https://lunatiq.neocities.org/posts/100-questions.html</guid>
+      <link>https://netcat.systems/posts/100-questions.html</link>
+      <guid isPermaLink="true">https://netcat.systems/posts/100-questions.html</guid>
       <pubDate>Wed, 08 Jul 2026 16:50:00 +0200</pubDate>
       <description>I saw this on misaobit's website, and wanted to celebrate the reboot of my own website with a little infodump about myself.</description>
     </item>
     <item>
       <title>The TF2 SDK is OPEN SOURCE</title>
-      <link>https://lunatiq.neocities.org/posts/tf2-sdk-released.html</link>
-      <guid isPermaLink="true">https://lunatiq.neocities.org/posts/tf2-sdk-released.html</guid>
+      <link>https://netcat.systems/posts/tf2-sdk-released.html</link>
+      <guid isPermaLink="true">https://netcat.systems/posts/tf2-sdk-released.html</guid>
       <pubDate>Sat, 22 Feb 2025 09:48:28 +0200</pubDate>
       <description>The Team Fortress 2 SDK has been released as open source software. This is a huge step for the modding community and the game itself, and we're going to take a look at what this means for the future of TF2.</description>
     </item>
     <item>
       <title>Linux, Tech Giants, and the Death of Consumer Freedom</title>
-      <link>https://lunatiq.neocities.org/posts/switching-to-linux.html</link>
-      <guid isPermaLink="true">https://lunatiq.neocities.org/posts/switching-to-linux.html</guid>
+      <link>https://netcat.systems/posts/switching-to-linux.html</link>
+      <guid isPermaLink="true">https://netcat.systems/posts/switching-to-linux.html</guid>
       <pubDate>Fri, 06 Sep 2024 03:59:40 +0200</pubDate>
       <description>Microsoft finally broke me, so I decided to make the switch to Linux. In this post, I'll share my personal experience, my honest opinions, and a few words of caution for the Linux community.</description>
     </item>
     <item>
       <title>OMG I LOVE ARCH!!!</title>
-      <link>https://lunatiq.neocities.org/posts/uwu.html</link>
-      <guid isPermaLink="true">https://lunatiq.neocities.org/posts/uwu.html</guid>
+      <link>https://netcat.systems/posts/uwu.html</link>
+      <guid isPermaLink="true">https://netcat.systems/posts/uwu.html</guid>
       <pubDate>Tue, 03 Sep 2024 17:18:15 +0200</pubDate>
       <description>DESCRIPTION</description>
     </item>
