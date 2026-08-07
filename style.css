@@ -59,7 +59,7 @@ html.accessible-font body {
 
 @media only screen and (max-width: 440px) {
   body {
-    max-width: 80vw;
+    max-width: 75vw;
   }
 
   .header-logo {
@@ -67,9 +67,13 @@ html.accessible-font body {
   }
 
   .badges {
+    /*
     grid-template-columns: repeat(auto-fit, minmax(88px, 1fr));
     justify-content: center;
     width: 100%;
+    */
+
+    display: none;
   }
 }
 
