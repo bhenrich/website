@@ -81,6 +81,18 @@ html.accessible-font body {
   image-rendering: pixelated;
 }
 
+table #webring-badges {
+  border: none;
+}
+
+#webrings {
+  width: 30%;
+}
+
+#badges {
+  width: 70%;
+}
+
 a {
   color: var(--color-link);
 }
